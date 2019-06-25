@@ -1,1 +1,1 @@
-# yjy-website-example
+# kubia-website-example
